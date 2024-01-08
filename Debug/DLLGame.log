@@ -1,0 +1,6 @@
+﻿  Scanning sources for module dependencies...
+  TestCommands.cpp
+C:\Users\Boruku\Documents\C++\DLLGame\DLLGame\MemoryManager.h(18,2): warning C4091: 'static ': ignored on left of 'MemoryManager' when no variable is declared
+C:\Users\Boruku\Documents\C++\DLLGame\DLLGame\ObjectType.h(17,2): warning C4091: 'static ': ignored on left of 'Objects' when no variable is declared
+C:\Users\Boruku\Documents\C++\DLLGame\DLLGame\ObjectManager.h(32,2): warning C4091: 'static ': ignored on left of 'ObjectManager' when no variable is declared
+  DLLGame.vcxproj -> C:\Users\Boruku\Documents\C++\DLLGame\Debug\DLLGame.dll
